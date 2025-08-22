@@ -1,11 +1,1 @@
-https://github.com/Tsunami2004/College-Projects-/blob/main/Student%20Sentimental%20analysis%20Program%20(2).ipynb
-https://github.com/Tsunami2004/College-Projects-/blob/main/finalDataset0.2.xlsx
-https://github.com/Tsunami2004/College-Projects-/blob/main/requirements.txt
-https://github.com/Tsunami2004/College-Projects-/blob/main/student_feedback.csv
-https://github.com/Tsunami2004/College-Projects-/blob/main/student_feedback_1.csv
-https://github.com/Tsunami2004/College-Projects-/blob/main/student_feedback_2.csv
-https://github.com/Tsunami2004/College-Projects-/blob/main/student_feedback_3.csv
-https://github.com/Tsunami2004/College-Projects-/blob/main/student_feedback_4.csv
-https://github.com/Tsunami2004/College-Projects-/blob/main/student_feedback_5.csv
-https://github.com/Tsunami2004/College-Projects-/blob/main/trialprgm3%20(2).ipynb
-https://github.com/Tsunami2004/College-Projects-/blob/main/trialprogram2.ipynb
+
